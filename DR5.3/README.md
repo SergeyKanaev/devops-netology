@@ -23,7 +23,7 @@ Hey, Netology
 
 Ответ: 
 
-https://hub.docker.com/repository/docker/skan23121981/ng
+https://hub.docker.com/r/skan23121981/ng
 
 
 
