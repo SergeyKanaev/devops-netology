@@ -33,7 +33,8 @@
 
         Ответ: 
         
-        ![image](https://user-images.githubusercontent.com/91260493/161292630-873665db-7a71-4de2-a0e1-e5c0124c387c.png)
+       
+
         
         Задача 3. Поддержка легаси кода.
        
